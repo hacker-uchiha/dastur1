@@ -1,0 +1,6 @@
+﻿  MyForm.cpp
+D:\Dasturlash\dastur6\dastur6\MyForm.cpp(5,34): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+  MyForm1.cpp
+  Generating Code...
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  dastur6.vcxproj -> D:\Dasturlash\dastur6\x64\Debug\dastur6.exe

@@ -1,0 +1,8 @@
+C:\Dastur\dastur6\dastur6\x64\Debug\dastur6.vcxproj.AssemblyReference.cache
+C:\Dastur\dastur6\dastur6\x64\Debug\dastur6.MyForm.resources
+C:\Dastur\dastur6\dastur6\x64\Debug\dastur6.MyForm1.resources
+C:\Dastur\dastur6\dastur6\x64\Debug\dastur6.vcxproj.GenerateResource.cache
+D:\Dasturlash\dastur6\dastur6\x64\Debug\dastur6.vcxproj.AssemblyReference.cache
+D:\Dasturlash\dastur6\dastur6\x64\Debug\dastur6.MyForm.resources
+D:\Dasturlash\dastur6\dastur6\x64\Debug\dastur6.MyForm1.resources
+D:\Dasturlash\dastur6\dastur6\x64\Debug\dastur6.vcxproj.GenerateResource.cache
